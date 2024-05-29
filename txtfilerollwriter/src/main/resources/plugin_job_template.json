@@ -1,0 +1,21 @@
+{
+    "name": "txtfilerollwriter",
+    "parameter": {
+        "path": "xxx",
+        "writeMode": "truncate|append|nonConflict",
+        "prefix": "xxx",
+
+        "nullFormat": "",
+        "dateFormat": "yyyyMMddHHmmss",
+
+        "fileFormat": "text",
+        "fieldDelimiter": ",",
+        "header": [],
+        "encoding": "UTF-8",
+        "rollSize": 0,
+        "rollCount": 0,
+
+        "suffix": "txt",
+        "inUseSuffix": "tmp"
+    }
+}
